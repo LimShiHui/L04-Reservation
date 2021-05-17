@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="tv_name">Name</string>
+    <string name="et_name"></string>
+    <string name="tv_mobile">Mobile number</string>
+    <string name="et_mobile"></string>
+    <string name="tv_pax">Pax size</string>
+    <string name="et_pax"></string>
+    <string name="cb_smoking">Smoking area</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_reset">Reset</string>
+</resources>
